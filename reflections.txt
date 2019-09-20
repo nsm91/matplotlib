@@ -1,0 +1,5 @@
+1) It seems strange that some medicines can do worse than the placebo, such as Propriva and Infubinol.
+
+2) It was interesting how the error bars seemed to get larger as the data went along, such as in Capomulin mean tumor volume chart.
+
+3) It was interesting that some tumor volumes went down over time (Capomulin and Ramicane) but number of metastatic sites never went down. So these drugs never actually reduced the amount of cancer in a body, just how big they are, presumably as prelimary treatments before surgery extracts the tumors or something.
